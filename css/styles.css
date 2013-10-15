@@ -1,17 +1,19 @@
 /* Main Navigation */
 .container_12{
-			  background: url("../img/woodgrain.png");
+			  background: url("../img/woodgrain.png");}
 /*LOGO*/
 
-#logo{background:}
 
+
+
+#logo{background: #FC3;}
 
 img{
 	border: 10px solid black;
 	padding: 10px;
 	margin: 10px;
-	border-radius:100px;
-	box-shadow:10px 10px 10px pink;
+	border-radius: 100px;
+	box-shadow: 10px 10px 10px pink;
 
 }
 /*Co. Name*/
